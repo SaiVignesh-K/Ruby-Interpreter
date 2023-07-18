@@ -1,0 +1,2 @@
+Run-time GLOBAL_MEMORY contents:
+{'j': -1, 'p': -0.5}

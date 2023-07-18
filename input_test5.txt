@@ -1,0 +1,7 @@
+if 5%3==1
+y = 1
+elsif 5%2==1
+y = 2
+else
+y = 3
+end

@@ -1,0 +1,2 @@
+Run-time GLOBAL_MEMORY contents:
+{'v': 10}

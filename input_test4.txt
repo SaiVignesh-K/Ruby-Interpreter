@@ -1,0 +1,9 @@
+# if statements
+
+v = 5
+
+if v>5
+v=v+1
+else
+v=v*2
+end

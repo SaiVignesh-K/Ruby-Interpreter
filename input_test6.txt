@@ -1,0 +1,13 @@
+j = 5
+
+while j>1
+j = j - 3
+end
+
+if j>0
+p=j+3
+elsif j==0
+p=j
+else
+p=j/2
+end
